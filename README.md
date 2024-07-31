@@ -1,4 +1,4 @@
-### Olá! Eu sou o Mozart
+### Olá! Me chamo Mozart 👋
 
 <picture>
   <source
