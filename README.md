@@ -1,4 +1,6 @@
-## Hi there 👋
+## Oi, meu nome é Mozart👋
+
+Estou estudando Desenvolvimento Web.
 
 <!--
 **MozartLP/MozartLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
