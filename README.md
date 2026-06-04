@@ -12,14 +12,15 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angular logo""/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo""/>
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="type script logo""/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=pyton" height="45" alt="pyton logo""/>
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="pyton logo""/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel script logo""/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap script logo""/>
   <img width="12"/>
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div>
 
 ## Minhas Estatisticas
