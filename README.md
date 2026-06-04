@@ -1,6 +1,6 @@
 ## 👋Oi, bem vindo ao meu perfil Github !
 
-- Meu nome é Mozart Andrade e estou estudando Font End, , do RJ, Brasil 🇧🇷
+- Meu nome é Mozart Andrade e estou cursando Engenharia de Software, , do RJ, Brasil 🇧🇷
 
 ## My Techs
 <div>
