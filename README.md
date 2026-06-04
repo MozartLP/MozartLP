@@ -4,10 +4,12 @@
 
 ## My Techs
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="java script logo""/>
+  <img width="12"/>
 </div>
 
 ## Minhas Estatisticas
