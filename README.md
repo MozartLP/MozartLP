@@ -20,6 +20,12 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap script logo""/>
   <img width="12"/>
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </div>
 
 ## Minhas Estatisticas
