@@ -20,7 +20,7 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap script logo""/>
   <img width="12"/>
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev"/>
 </div>
 
 ## Minhas Estatisticas
