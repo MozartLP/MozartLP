@@ -3,7 +3,7 @@
 - Meu nome é Mozart Andrade e estou estudando Font End, , do RJ, Brasil 🇧🇷
 
 ## My Techs
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
