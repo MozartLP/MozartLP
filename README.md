@@ -13,7 +13,7 @@
 
 ## Minhas Estatisticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mozart_andrade_aa70b2130=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MozartLP=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
