@@ -28,9 +28,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MozartLP/count.svg?"  />
-</div>
-
-###
