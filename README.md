@@ -3,24 +3,7 @@
 - Meu nome é Mozart Andrade e estou estudando Font End, , do RJ, Brasil 🇧🇷
 
 ## My Techs
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="java script logo""/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angular logo""/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="type script logo""/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="pyton logo""/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel script logo""/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap script logo""/>
-  <img width="12"/>
-
+<div>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
